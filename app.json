@@ -1,0 +1,29 @@
+{
+  "id": "fa343cfc-aa25-4a80-a658-94af2dfe2c9d",
+  "name": "Gestion Congee",
+  "publisher": "Aziz",
+  "version": "1.0.0.1",
+  "target": "OnPrem",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "17.0.0.0",
+  "idRanges": [
+    {
+      "from": 50100,
+      "to": 50149
+    }
+  ],
+  "showMyCode": true,
+  "runtime": "6.1",
+  "features": [
+    "NoImplicitWith","TranslationFile"
+  ]
+}
